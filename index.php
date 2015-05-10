@@ -6,3 +6,4 @@ echo 'ทำงานก่อน';
 echo 'test1';
 echo "ttt";
 echo 'Susang';
+echo 'มาดูหน่อย';
